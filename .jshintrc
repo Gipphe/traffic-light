@@ -1,0 +1,28 @@
+{
+  "curly": true,
+  "eqeqeq": false,
+  "forin": true,
+  "freeze": false,
+  "funcscope": true,
+  "futurehostile": true,
+  "globals": {
+    "window": true,
+    "require": true,
+    "console": true
+  },
+  "iterator": true,
+  "latedef": true,
+  "nocomma": true,
+  "nonbsp": true,
+  "nonew": true,
+  "notypeof": false,
+  "singleGroups": true,
+  "undef": true,
+  "unused": true,
+  "asi": false,
+  "esnext": false,
+  "indent": 1,
+  "strict": "global",
+  "esnext": true,
+  "node": true
+}
